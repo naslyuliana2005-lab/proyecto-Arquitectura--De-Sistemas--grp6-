@@ -6,6 +6,7 @@
 | 2 | Disponibilidad | Tiempo de actividad | 99.9% | 24/7 | Monitoreo continuo | El servicio no cumple SLA |
 | 3 | Seguridad | Tiempo de expiración de sesión | 30 minutos | Usuarios activos | Pruebas de seguridad | Riesgo de acceso no autorizado |
 | 4 | Mantenibilidad | Tiempo de despliegue | < 15 minutos | Actualización de versión | Prueba de CI/CD | Tiempo de inactividad largo |
+| 5 | Capacidad | Máximo de citas | 1000 citas/día | Demanda máxima | Prueba de estrés | El sistema no puede escalar |
 
 ## Escenarios completos
 
