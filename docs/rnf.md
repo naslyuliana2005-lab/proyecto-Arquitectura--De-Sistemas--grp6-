@@ -5,6 +5,7 @@
 | 1 | Rendimiento | p95 de latencia | menor a 400 ms | 200 usuarios concurrentes | Prueba de carga | El usuario abandona la reserva |
 | 2 | Disponibilidad | Tiempo de actividad | 99.9% | 24/7 | Monitoreo continuo | El servicio no cumple SLA |
 | 3 | Seguridad | Tiempo de expiración de sesión | 30 minutos | Usuarios activos | Pruebas de seguridad | Riesgo de acceso no autorizado |
+| 4 | Mantenibilidad | Tiempo de despliegue | < 15 minutos | Actualización de versión | Prueba de CI/CD | Tiempo de inactividad largo |
 
 ## Escenarios completos
 
